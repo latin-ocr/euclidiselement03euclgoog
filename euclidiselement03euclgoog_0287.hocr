@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./euclidiselement03euclgoog_0287.png"; bbox 0 0 2184 3526; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 5 2556 935 2956">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 5 2556 935 2956">
+     <span class='ocr_line' id='line_1_1' title="bbox 126 2556 935 2682; baseline -0.005 -31"><span class='ocrx_word' id='word_1_1' title='bbox 126 2556 660 2682; x_wconf 71' lang='lat' dir='ltr'><strong>catus3.T&#39;0tusAng.oEcen</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 932 2629 935 2637; x_wconf 92' lang='lat'><em>.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 5 2681 707 2797; baseline 0 -45"><span class='ocrx_word' id='word_1_3' title='bbox 5 2701 7 2752; x_wconf 82' lang='grc' dir='ltr'><em>ῖ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 169 2681 280 2776; x_wconf 83' lang='lat' dir='ltr'>duplus</span> <span class='ocrx_word' id='word_1_5' title='bbox 290 2682 386 2752; x_wconf 84' lang='lat' dir='ltr'>totius</span> <span class='ocrx_word' id='word_1_6' title='bbox 402 2685 527 2757; x_wconf 88' lang='lat' dir='ltr'><strong>GDC.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 685 2723 707 2797; x_wconf 63' lang='grc' dir='ltr'>ς</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 5 2779 671 2881; baseline 0.005 -36"><span class='ocrx_word' id='word_1_8' title='bbox 5 2819 7 2876; x_wconf 30' lang='lat' dir='ltr'><strong>j</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 127 2779 265 2850; x_wconf 83' lang='lat' dir='ltr'>Partialis</span> <span class='ocrx_word' id='word_1_10' title='bbox 284 2783 380 2855; x_wconf 81' lang='lat' dir='ltr'>GEB</span> <span class='ocrx_word' id='word_1_11' title='bbox 400 2783 444 2860; x_wconf 82' lang='lat' dir='ltr'>est</span> <span class='ocrx_word' id='word_1_12' title='bbox 464 2780 576 2881; x_wconf 81' lang='lat' dir='ltr'>duplus</span> <span class='ocrx_word' id='word_1_13' title='bbox 605 2802 671 2876; x_wconf 78' lang='lat' dir='ltr'><strong>par·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 5 2877 375 2956; baseline 0.024 -11"><span class='ocrx_word' id='word_1_14' title='bbox 5 2877 6 2880; x_wconf 70' lang='grc'>’</span> <span class='ocrx_word' id='word_1_15' title='bbox 172 2877 375 2956; x_wconf 86' lang='lat' dir='ltr'><strong>tialisGDB.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 5 2955 968 3164">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 5 2955 968 3164">
+     <span class='ocr_line' id='line_1_5' title="bbox 5 2955 968 3164; baseline -0.012 -92"><span class='ocrx_word' id='word_1_16' title='bbox 5 3063 7 3110; x_wconf 26' lang='grc' dir='ltr'>ἶ</span> <span class='ocrx_word' id='word_1_17' title='bbox 125 2955 823 3164; x_wconf 55' lang='grc' dir='ltr'>ΚέῖιιιᾟΒΕᾱᾞῖιῇῶῑῦῑῖἯ</span> <span class='ocrx_word' id='word_1_18' title='bbox 960 3057 968 3076; x_wconf 79' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1096 3526">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1096 3526">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1096 3526; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1096 3526; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
